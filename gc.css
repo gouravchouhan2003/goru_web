@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+}
+#page1{
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+
+}
+#page2{
+    width: 100vw;
+    height: 100vh;
+    background-color: salmon;
+}
+#page3{width: 100vw;
+    height: 100vh;
+    background-color: orange;
+}
+#page4{width: 100vw;
+    height: 100vh;
+    background-color: grey;
+}
